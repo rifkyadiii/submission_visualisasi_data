@@ -2,7 +2,7 @@
 
 ## Latar Belakang Proyek
 
-Proyek ini merupakan submission untuk kelas **"Belajar Analisis Data dengan Python"** dari Dicoding University Batch 6. Tujuan dari proyek ini adalah untuk melakukan eksplorasi dan visualisasi data menggunakan dataset **Bike Sharing**, yang berisi informasi penyewaan sepeda per jam dan per hari.
+Proyek ini merupakan submission untuk kelas **"Belajar Analisis Data dengan Python"** dari Dicoding Bangun Negeri Batch 6. Tujuan dari proyek ini adalah untuk melakukan eksplorasi dan visualisasi data menggunakan dataset **Bike Sharing**, yang berisi informasi penyewaan sepeda per jam dan per hari.
 
 Dari analisis ini, dibuat sebuah dashboard interaktif untuk menjawab beberapa pertanyaan bisnis terkait pola penyewaan sepeda.
 
